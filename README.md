@@ -37,8 +37,15 @@ This repository is a collection of Python solutions to various LeetCode problems
 
 ## Solved Problems
 
-- [57. Insert Interval](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/57-InsertInverval.py)
+![Static Badge](https://img.shields.io/badge/LeetCode%20Easy%20-green?style=for-the-badge)
+
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/206-ReverseLinkedList.py)
-- [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1768-MergeStringAlternatively.py)
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1431-KidsWithTheGreatestNumberOfCandies.py)
+
+![Static Badge](https://img.shields.io/badge/LeetCode%20Medium%20-yellow?style=for-the-badge)
+
+- [57. Insert Interval](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/57-InsertInverval.py)
+- [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
+
+![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
