@@ -39,6 +39,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Easy%20-green?style=for-the-badge)
 
+- [1. Two Sum](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1-TwoSum.py)
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/206-ReverseLinkedList.py)
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1768-MergeStringAlternatively.py)
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1431-KidsWithTheGreatestNumberOfCandies.py)
