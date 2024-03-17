@@ -49,5 +49,6 @@ This repository is a collection of Python solutions to various LeetCode problems
 
 - [57. Insert Interval](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/57-InsertInverval.py)
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
+- [238. Product of Array Except Self](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/238-ProductOfArrayExceptSelf.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
