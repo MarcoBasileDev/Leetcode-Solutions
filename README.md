@@ -23,7 +23,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 
 ## Usage
 
-- This repository can be used as a personal index to collect your LeetCode solutions. It's a great way to track your progress, revisit solutions for reference, and soli
+- This repository can be used as a personal index to collect your LeetCode solutions. It's a great way to track your progress, revisit solutions for reference, and solidify your understanding of common problem-solving patterns.
 
 ## Contribution Guidelines:
 
@@ -41,3 +41,4 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/206-ReverseLinkedList.py)
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1768-MergeStringAlternatively.py)
+- [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1431-KidsWithTheGreatestNumberOfCandies.py)
