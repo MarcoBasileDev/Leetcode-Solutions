@@ -51,5 +51,6 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
 - [238. Product of Array Except Self](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/238-ProductOfArrayExceptSelf.py)
 - [11. Container With Most Water](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/11-ContainerWithMostWater.py)
+- [19. Remove Nth Node From End Of List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/19-RemoveNthNodeFromEndOfList.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
