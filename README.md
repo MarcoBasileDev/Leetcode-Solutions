@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![GitHub License](https://img.shields.io/github/license/MarcoBasileDev/Leetcode-Solutions)
+![GitHub License](https://img.shields.io/github/license/MarcoBasileDev/Leetcode-Solutions?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/algorithms%20and%20data%20structures-blue?style=for-the-badge)
 
 ## Description
 
@@ -22,7 +23,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 
 ## Usage
 
-- You as me, can you use this repo for have an index collecting all solutions. Keep tracking how much leetcode you have solved and use it as a way to remember all common patterns.
+- This repository can be used as a personal index to collect your LeetCode solutions. It's a great way to track your progress, revisit solutions for reference, and soli
 
 ## Contribution Guidelines:
 
