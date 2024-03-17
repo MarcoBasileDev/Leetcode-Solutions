@@ -52,5 +52,6 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [238. Product of Array Except Self](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/238-ProductOfArrayExceptSelf.py)
 - [11. Container With Most Water](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/11-ContainerWithMostWater.py)
 - [19. Remove Nth Node From End Of List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/19-RemoveNthNodeFromEndOfList.py)
+- [435. Non Overlapping Intervals](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/435-NonOverlappingIntervals.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
