@@ -41,18 +41,19 @@ This repository is a collection of Python solutions to various LeetCode problems
 
 - [1. Two Sum](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1-TwoSum.py)
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/206-ReverseLinkedList.py)
-- [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1768-MergeStringAlternatively.py)
-- [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1431-KidsWithTheGreatestNumberOfCandies.py)
 - [605. Can Place Flowers](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/605-CanPlaceFlowers.py)
+- [643. Maximum Average Subarray I.py](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/643-MaximumAverageSubarrayI.py.py)
+- [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1431-KidsWithTheGreatestNumberOfCandies.py)
+- [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1768-MergeStringAlternatively.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Medium%20-yellow?style=for-the-badge)
 
-- [57. Insert Interval](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/57-InsertInverval.py)
-- [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
-- [238. Product of Array Except Self](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/238-ProductOfArrayExceptSelf.py)
 - [11. Container With Most Water](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/11-ContainerWithMostWater.py)
 - [19. Remove Nth Node From End Of List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/19-RemoveNthNodeFromEndOfList.py)
+- [57. Insert Interval](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/57-InsertInverval.py)
+- [238. Product of Array Except Self](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/238-ProductOfArrayExceptSelf.py)
 - [435. Non Overlapping Intervals](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/435-NonOverlappingIntervals.py)
 - [452. Minimum Number Of Arrows To Burst Balloons](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/452-MinimumNumberOfArrowsToBurstBalloons.py)
+- [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
