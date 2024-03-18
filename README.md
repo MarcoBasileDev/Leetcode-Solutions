@@ -41,6 +41,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 
 - [1. Two Sum](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1-TwoSum.py)
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/206-ReverseLinkedList.py)
+- [283. Move Zeroes](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/283-MoveZeroes.py)
 - [605. Can Place Flowers](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/605-CanPlaceFlowers.py)
 - [643. Maximum Average Subarray I.py](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/643-MaximumAverageSubarrayI.py)
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1431-KidsWithTheGreatestNumberOfCandies.py)
@@ -52,8 +53,8 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [19. Remove Nth Node From End Of List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/19-RemoveNthNodeFromEndOfList.py)
 - [57. Insert Interval](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/57-InsertInverval.py)
 - [238. Product of Array Except Self](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/238-ProductOfArrayExceptSelf.py)
-- [11. Container With Most Water](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/11-ContainerWithMostWater.py)
 - [334. Increasing Triplet Subsequence](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/334-IncreasingTripletSubsequence.py)
+- [435. Non Overlapping Intervals](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/435-NonOverlappingIntervals.py)
 - [452. Minimum Number Of Arrows To Burst Balloons](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/452-MinimumNumberOfArrowsToBurstBalloons.py)
 - [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1456-MaximumNumberOfVowelsInASubstringOfGivenLength.py)
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
