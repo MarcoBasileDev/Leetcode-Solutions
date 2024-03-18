@@ -53,5 +53,6 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [11. Container With Most Water](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/11-ContainerWithMostWater.py)
 - [19. Remove Nth Node From End Of List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/19-RemoveNthNodeFromEndOfList.py)
 - [435. Non Overlapping Intervals](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/435-NonOverlappingIntervals.py)
+- [452. Minimum Number Of Arrows To Burst Balloons](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/452-MinimumNumberOfArrowsToBurstBalloons.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
