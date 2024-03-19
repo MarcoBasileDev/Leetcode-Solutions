@@ -44,6 +44,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [283. Move Zeroes](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/283-MoveZeroes.py)
 - [605. Can Place Flowers](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/605-CanPlaceFlowers.py)
 - [643. Maximum Average Subarray I.py](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/643-MaximumAverageSubarrayI.py)
+- [1071. Greatest Common Divisor Of Strings](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1071-GreatestCommonDivisorOfStrings.py)
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1431-KidsWithTheGreatestNumberOfCandies.py)
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1768-MergeStringAlternatively.py)
 
@@ -56,7 +57,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [334. Increasing Triplet Subsequence](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/334-IncreasingTripletSubsequence.py)
 - [435. Non Overlapping Intervals](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/435-NonOverlappingIntervals.py)
 - [452. Minimum Number Of Arrows To Burst Balloons](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/452-MinimumNumberOfArrowsToBurstBalloons.py)
-- [621. Task Scheduler.py](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/621-TaskScheduler.py)
+- [621. Task Scheduler](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/621-TaskScheduler.py)
 - [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1456-MaximumNumberOfVowelsInASubstringOfGivenLength.py)
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
 
