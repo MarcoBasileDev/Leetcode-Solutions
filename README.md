@@ -62,6 +62,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [621. Task Scheduler](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/621-TaskScheduler.py)
 - [1004. Max Consecutive Ones III](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1004-MaxConsecutiveOnesIII.py)
 - [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1456-MaximumNumberOfVowelsInASubstringOfGivenLength.py)
+- [1669. Merge In Between Linked Lists](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1669-MergeInBetweenLinkedLists.py)
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
