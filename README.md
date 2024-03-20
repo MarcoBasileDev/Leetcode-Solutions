@@ -40,9 +40,10 @@ This repository is a collection of Python solutions to various LeetCode problems
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Easy%20-green?style=for-the-badge)
 
 - [1. Two Sum](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1-TwoSum.py)
+- [104. Maximum Depth of Binary Tree](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/104-MaximumDepthOfBinaryTree.py)
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/206-ReverseLinkedList.py)
 - [283. Move Zeroes](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/283-MoveZeroes.py)
-- [392. Is Subsequence](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/392.IsSubsequence.py)
+- [392. Is Subsequence](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/392-IsSubsequence.py)
 - [605. Can Place Flowers](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/605-CanPlaceFlowers.py)
 - [643. Maximum Average Subarray I](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/643-MaximumAverageSubarrayI.py)
 - [1071. Greatest Common Divisor Of Strings](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1071-GreatestCommonDivisorOfStrings.py)
