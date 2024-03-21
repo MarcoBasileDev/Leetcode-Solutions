@@ -61,6 +61,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [238. Product of Array Except Self](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/238-ProductOfArrayExceptSelf.py)
 - [334. Increasing Triplet Subsequence](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/334-IncreasingTripletSubsequence.py)
 - [435. Non Overlapping Intervals](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/435-NonOverlappingIntervals.py)
+- [443. String Compression](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/443-StringCompression.py)
 - [452. Minimum Number Of Arrows To Burst Balloons](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/452-MinimumNumberOfArrowsToBurstBalloons.py)
 - [621. Task Scheduler](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/621-TaskScheduler.py)
 - [1004. Max Consecutive Ones III](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1004-MaxConsecutiveOnesIII.py)
