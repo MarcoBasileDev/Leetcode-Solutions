@@ -43,6 +43,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [104. Maximum Depth of Binary Tree](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/104-MaximumDepthOfBinaryTree.py)
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/206-ReverseLinkedList.py)
 - [283. Move Zeroes](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/283-MoveZeroes.py)
+- [345. Reverse Vowels of a String](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/345-ReverseVowelsOfAString.py)
 - [392. Is Subsequence](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/392-IsSubsequence.py)
 - [605. Can Place Flowers](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/605-CanPlaceFlowers.py)
 - [643. Maximum Average Subarray I](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/643-MaximumAverageSubarrayI.py)
