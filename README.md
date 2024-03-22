@@ -49,6 +49,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [643. Maximum Average Subarray I](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/643-MaximumAverageSubarrayI.py)
 - [724. Find Pivot Index](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/724-FindPivotIndex.py)
 - [1071. Greatest Common Divisor Of Strings](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1071-GreatestCommonDivisorOfStrings.py)
+- [1207. Unique Number Of Occurrences](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1207-UniqueNumberOfOccurrences.py)
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1431-KidsWithTheGreatestNumberOfCandies.py)
 - [1732. Find The Highest Altitude](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1732-FindTheHighestAltitude.py)
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1768-MergeStringAlternatively.py)
