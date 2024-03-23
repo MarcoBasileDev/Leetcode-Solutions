@@ -75,5 +75,6 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1657. Determine If Two Strings Are Close](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1657-DetermineIfTwoStringsAreClose.py)
 - [1669. Merge In Between Linked Lists](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1669-MergeInBetweenLinkedLists.py)
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
+- [2352. Equal Row And Column Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/2352-EqualRowAndColumnPairs.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
