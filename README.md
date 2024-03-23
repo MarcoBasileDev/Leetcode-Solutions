@@ -42,15 +42,19 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1. Two Sum](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1-TwoSum.py)
 - [104. Maximum Depth of Binary Tree](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/104-MaximumDepthOfBinaryTree.py)
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/206-ReverseLinkedList.py)
+- [234. Palindrome Linked List](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/234-PalindromeLinkedList.py)
 - [283. Move Zeroes](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/283-MoveZeroes.py)
 - [345. Reverse Vowels of a String](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/345-ReverseVowelsOfAString.py)
 - [392. Is Subsequence](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/392-IsSubsequence.py)
 - [605. Can Place Flowers](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/605-CanPlaceFlowers.py)
 - [643. Maximum Average Subarray I](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/643-MaximumAverageSubarrayI.py)
+- [724. Find Pivot Index](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/724-FindPivotIndex.py)
 - [1071. Greatest Common Divisor Of Strings](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1071-GreatestCommonDivisorOfStrings.py)
+- [1207. Unique Number Of Occurrences](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1207-UniqueNumberOfOccurrences.py)
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1431-KidsWithTheGreatestNumberOfCandies.py)
 - [1732. Find The Highest Altitude](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1732-FindTheHighestAltitude.py)
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1768-MergeStringAlternatively.py)
+- [2215. Find The Difference Of Two Arrays](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/2215-FindTheDifferenceOfTwoArrays.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Medium%20-yellow?style=for-the-badge)
 
@@ -68,6 +72,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1004. Max Consecutive Ones III](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1004-MaxConsecutiveOnesIII.py)
 - [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1456-MaximumNumberOfVowelsInASubstringOfGivenLength.py)
 - [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1493-LongestSubarrayOf1sAfterDeletingOneElement.py)
+- [1657. Determine If Two Strings Are Close](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1657-DetermineIfTwoStringsAreClose.py)
 - [1669. Merge In Between Linked Lists](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1669-MergeInBetweenLinkedLists.py)
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
 
