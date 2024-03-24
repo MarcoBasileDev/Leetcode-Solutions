@@ -77,5 +77,6 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1669. Merge In Between Linked Lists](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1669-MergeInBetweenLinkedLists.py)
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1679-MaxNumberOfKSumPairs.py)
 - [2352. Equal Row And Column Pairs](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/2352-EqualRowAndColumnPairs.py)
+- [2390. Removing Stars From A String](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/2390-RemovingStarsFromAString.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
