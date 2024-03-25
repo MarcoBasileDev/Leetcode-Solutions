@@ -66,6 +66,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [238. Product Of Array Except Self](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/238-ProductOfArrayExceptSelf.py)
 - [287. Find The Duplicate Number](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/287-FindTheDuplicateNumber.py)
 - [334. Increasing Triplet Subsequence](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/334-IncreasingTripletSubsequence.py)
+- [394. Decode String](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/394-DecodeString.py)
 - [435. Non Overlapping Intervals](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/435-NonOverlappingIntervals.py)
 - [442. Find All Duplicates In An Array](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/442-FindAllDuplicatesInAnArray.py)
 - [443. String Compression](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/443-StringCompression.py)
