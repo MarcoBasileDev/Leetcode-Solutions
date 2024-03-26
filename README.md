@@ -49,6 +49,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [605. Can Place Flowers](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/605-CanPlaceFlowers.py)
 - [643. Maximum Average Subarray I](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/643-MaximumAverageSubarrayI.py)
 - [724. Find Pivot Index](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/724-FindPivotIndex.py)
+- [933. Number Of Recent Calls](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/933-NumberOfRecentCalls.py)
 - [1071. Greatest Common Divisor Of Strings](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1071-GreatestCommonDivisorOfStrings.py)
 - [1207. Unique Number Of Occurrences](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1207-UniqueNumberOfOccurrences.py)
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/1431-KidsWithTheGreatestNumberOfCandies.py)
