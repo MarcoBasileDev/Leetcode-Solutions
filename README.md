@@ -82,3 +82,5 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [2390. Removing Stars From A String](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/2390-RemovingStarsFromAString.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
+
+- [41. First Missing Positive](https://github.com/MarcoBasileDev/Leetcode-Solutions/blob/main/Solutions/41-FirstMissingPositive.py)
