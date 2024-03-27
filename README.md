@@ -74,6 +74,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [443. String Compression](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/443_string_compression.py)
 - [452. Minimum Number Of Arrows To Burst Balloons](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/452_minimum_number_of_arrows_to_burst_balloons.py)
 - [621. Task Scheduler](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/621_task_scheduler.py)
+- [713. Subarray Product Less Than K](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/713_subarray_product_less_than_k.py)
 - [735. Asteroid Collision](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/735_asteroid_collision.py)
 - [1004. Max Consecutive Ones III](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1004_max_consecutive_ones_III.py)
 - [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1456_maximum_number_of_vowels_in_a_substring_of_given_length.py)
