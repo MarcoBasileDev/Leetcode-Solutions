@@ -87,4 +87,5 @@ This repository is a collection of Python solutions to various LeetCode problems
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
 
+- [4. Median of Two Sorted Arrays](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/4_median_of_two_sorted_arrays.py)
 - [41. First Missing Positive](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/41_first_missing_positive.py)
