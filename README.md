@@ -85,6 +85,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [2352. Equal Row And Column Pairs](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2352_equal_row_and_column_pairs.py)
 - [2390. Removing Stars From A String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2390_removing_stars_from_a_string.py)
 - [2958. Length of Longest Subarray With at Most K Frequency](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2958_length_of_longest_subarray_with_at_most_k_frequency.py)
+- [2962. Count Subarrays Where Max Element Appears at Least K Times](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2962_count_subarrays_where_max_element_appears_at_least_k_times.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Hard%20-red?style=for-the-badge)
 
