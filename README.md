@@ -43,6 +43,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [26. Remove Duplicates from Sorted Array](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/26_remove_duplicates_from_sorted_array.py)
 - [104. Maximum Depth of Binary Tree](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/104_maximum_depth_of_binary_tree.py)
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/206_reverse_linked_list.py)
+- [217. Contains Duplicate](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/217_contains_duplicate.py)
 - [234. Palindrome Linked List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/234_palindrome_linked_list.py)
 - [283. Move Zeroes](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/283_move_zeroes.py)
 - [345. Reverse Vowels of a String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/345_reverse_vowels_of_a_string.py)
