@@ -58,6 +58,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1431_kids_with_the_greatest_number_of_candies.py)
 - [1732. Find The Highest Altitude](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1732_find_the_highest_altitude.py)
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1768_merge_string_alternatively.py)
+- [1929. Concatenation of Array](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1929_concatenation_of_array.py)
 - [2215. Find The Difference Of Two Arrays](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2215_find_the_difference_of_two_arrays.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Medium%20-yellow?style=for-the-badge)
