@@ -45,6 +45,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/206_reverse_linked_list.py)
 - [217. Contains Duplicate](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/217_contains_duplicate.py)
 - [234. Palindrome Linked List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/234_palindrome_linked_list.py)
+- [242. Valid Anagram](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/242_valid_anagram.py)
 - [283. Move Zeroes](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/283_move_zeroes.py)
 - [345. Reverse Vowels of a String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/345_reverse_vowels_of_a_string.py)
 - [392. Is Subsequence](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/392_is_subsequence.py)
