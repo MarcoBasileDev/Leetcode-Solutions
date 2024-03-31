@@ -68,6 +68,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [57. Insert Interval](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/57_insert_inverval.py)
 - [143. Reorder List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/143_reorder_list.py)
 - [151. Reverse Words In A String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/151_reverse_words_in_a_string.py)
+- [198. House Robber](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/198_house_robber.py)
 - [238. Product Of Array Except Self](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/238_product_of_array_except_self.py)
 - [287. Find The Duplicate Number](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/287_find_the_duplicate_number.py)
 - [334. Increasing Triplet Subsequence](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/334_increasing_triplet_subsequence.py)
