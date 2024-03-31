@@ -55,6 +55,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [933. Number Of Recent Calls](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/933_number_of_recent_calls.py)
 - [1071. Greatest Common Divisor Of Strings](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1071_greatest_common_divisor_of_strings.py)
 - [1207. Unique Number Of Occurrences](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1207_unique_number_of_occurrences.py)
+- [1299. Replace Elements with Greatest Element on Right Side](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1299_replace_elements_with_greatest_element_on_right_side.py)
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1431_kids_with_the_greatest_number_of_candies.py)
 - [1732. Find The Highest Altitude](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1732_find_the_highest_altitude.py)
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1768_merge_string_alternatively.py)
