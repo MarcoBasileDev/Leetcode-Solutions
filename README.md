@@ -89,6 +89,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1657. Determine If Two Strings Are Close](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1657_determine_if_two_strings_are_close.py)
 - [1669. Merge In Between Linked Lists](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1669_merge_in_between_linked_lists.py)
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1679_max_number_of_k_sum_pairs.py)
+- [2095. Delete the Middle Node of a Linked List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2095_delete_the_middle_node_of_a_linked_list.py)
 - [2352. Equal Row And Column Pairs](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2352_equal_row_and_column_pairs.py)
 - [2390. Removing Stars From A String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2390_removing_stars_from_a_string.py)
 - [2958. Length of Longest Subarray With at Most K Frequency](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2958_length_of_longest_subarray_with_at_most_k_frequency.py)
