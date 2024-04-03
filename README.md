@@ -69,6 +69,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [11. Container With Most Water](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/11_container_with_most_water.py)
 - [19. Remove Nth Node From End Of List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/19_remove_nth_node_from_end_of_list.py)
 - [57. Insert Interval](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/57_insert_inverval.py)
+- [79. Word Search](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/79_word_search.py)
 - [143. Reorder List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/143_reorder_list.py)
 - [151. Reverse Words In A String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/151_reverse_words_in_a_string.py)
 - [198. House Robber](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/198_house_robber.py)
