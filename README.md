@@ -54,6 +54,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1071. Greatest Common Divisor Of Strings](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1071_greatest_common_divisor_of_strings.py)
 - [1207. Unique Number Of Occurrences](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1207_unique_number_of_occurrences.py)
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1431_kids_with_the_greatest_number_of_candies.py)
+- [1614. Maximum Nesting Depth of the Parentheses](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1614_maximum_nesting_depth_of_the_parentheses.py)
 - [1732. Find The Highest Altitude](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1732_find_the_highest_altitude.py)
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1768_merge_string_alternatively.py)
 - [2215. Find The Difference Of Two Arrays](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2215_find_the_difference_of_two_arrays.py)
