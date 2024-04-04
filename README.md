@@ -76,6 +76,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [198. House Robber](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/198_house_robber.py)
 - [238. Product Of Array Except Self](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/238_product_of_array_except_self.py)
 - [287. Find The Duplicate Number](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/287_find_the_duplicate_number.py)
+- [328. Odd Even Linked List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/328_odd_even_linked_list.py)
 - [334. Increasing Triplet Subsequence](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/334_increasing_triplet_subsequence.py)
 - [394. Decode String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/394_decode_string.py)
 - [435. Non Overlapping Intervals](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/435_non_overlapping_intervals.py)
