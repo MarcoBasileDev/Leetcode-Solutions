@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/algorithms%20and%20data%20structures-blue?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/MarcoBasileDev/Leetcode-Solutions?style=for-the-badge)
 
+
 ## Description
 
 This repository is a collection of Python solutions to various LeetCode problems, designed to:
