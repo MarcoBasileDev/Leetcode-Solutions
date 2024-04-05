@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Static Badge](https://img.shields.io/badge/algorithms%20and%20data%20structures-blue?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/MarcoBasileDev/Leetcode-Solutions?style=for-the-badge)
 
 
 ## Description
