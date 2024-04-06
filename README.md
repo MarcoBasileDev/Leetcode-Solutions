@@ -88,6 +88,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [713. Subarray Product Less Than K](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/713_subarray_product_less_than_k.py)
 - [735. Asteroid Collision](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/735_asteroid_collision.py)
 - [1004. Max Consecutive Ones III](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1004_max_consecutive_ones_III.py)
+- [1249. Minimum Remove to Make Valid Parentheses](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1249_minimum_remove_to_make_valid_parentheses.py)
 - [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1456_maximum_number_of_vowels_in_a_substring_of_given_length.py)
 - [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1493_longest_subarray_of_1s_after_deleting_one_element.py)
 - [1657. Determine If Two Strings Are Close](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1657_determine_if_two_strings_are_close.py)
