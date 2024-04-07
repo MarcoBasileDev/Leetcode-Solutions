@@ -5,7 +5,6 @@
 ![Static Badge](https://img.shields.io/badge/algorithms%20and%20data%20structures-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-
 ## Description
 
 This repository is a collection of Python solutions to various LeetCode problems, designed to:
@@ -86,6 +85,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [443. String Compression](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/443_string_compression.py)
 - [452. Minimum Number Of Arrows To Burst Balloons](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/452_minimum_number_of_arrows_to_burst_balloons.py)
 - [621. Task Scheduler](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/621_task_scheduler.py)
+- [678. Valid Parenthesis String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/678_valid_parenthesis_string.py)
 - [713. Subarray Product Less Than K](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/713_subarray_product_less_than_k.py)
 - [735. Asteroid Collision](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/735_asteroid_collision.py)
 - [1004. Max Consecutive Ones III](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1004_max_consecutive_ones_III.py)
