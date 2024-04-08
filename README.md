@@ -61,6 +61,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1431_kids_with_the_greatest_number_of_candies.py)
 - [1544. Make The String Great](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1544_make_the_string_great.py)
 - [1614. Maximum Nesting Depth of the Parentheses](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1614_maximum_nesting_depth_of_the_parentheses.py)
+- [1700. Number of Students Unable to Eat Lunch](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1700_number_of_students_unable_to_eat_lunch.py)
 - [1732. Find The Highest Altitude](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1732_find_the_highest_altitude.py)
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1768_merge_string_alternatively.py)
 - [1929. Concatenation of Array](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/1929_concatenation_of_array.py)
