@@ -82,6 +82,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [328. Odd Even Linked List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/328_odd_even_linked_list.py)
 - [334. Increasing Triplet Subsequence](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/334_increasing_triplet_subsequence.py)
 - [394. Decode String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/394_decode_string.py)
+- [402. Remove K Digits](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/402_remove_k_digits.py)
 - [435. Non Overlapping Intervals](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/435_non_overlapping_intervals.py)
 - [442. Find All Duplicates In An Array](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/442_find_all_duplicates_in_an_array.py)
 - [443. String Compression](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/443_string_compression.py)
