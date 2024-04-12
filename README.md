@@ -109,5 +109,6 @@ This repository is a collection of Python solutions to various LeetCode problems
 
 - [4. Median of Two Sorted Arrays](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/4_median_of_two_sorted_arrays.py)
 - [41. First Missing Positive](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/41_first_missing_positive.py)
+- [42. Trapping Rain Water](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/42_trapping_rain_water.py)
 - [992. Subarrays with K Different Integers](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/992_subarrays_with_k_different_integers.py)
 - [2444. Count Subarrays With Fixed Bounds](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/2444_count_subarrays_with_fixed_bounds.py)
