@@ -51,6 +51,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [283. Move Zeroes](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/283_move_zeroes.py)
 - [345. Reverse Vowels of a String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/345_reverse_vowels_of_a_string.py)
 - [392. Is Subsequence](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/392_is_subsequence.py)
+- [404. Sum of Left Leaves](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/404_sum_of_left_leaves.py)
 - [605. Can Place Flowers](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/605_can_place_flowers.py)
 - [643. Maximum Average Subarray I](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/643_maximum_average_subarray_I.py)
 - [724. Find Pivot Index](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/724_find_pivot_index.py)
