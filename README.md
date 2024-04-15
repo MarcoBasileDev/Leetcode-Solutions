@@ -75,6 +75,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [19. Remove Nth Node From End Of List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/19_remove_nth_node_from_end_of_list.py)
 - [57. Insert Interval](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/57_insert_inverval.py)
 - [79. Word Search](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/79_word_search.py)
+- [129. Sum Root to Leaf Numbers](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/129_sum_root_to_leaf_numbers.py)
 - [143. Reorder List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/143_reorder_list.py)
 - [151. Reverse Words In A String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/151_reverse_words_in_a_string.py)
 - [198. House Robber](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/198_house_robber.py)
