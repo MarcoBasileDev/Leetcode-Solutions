@@ -90,6 +90,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [443. String Compression](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/443_string_compression.py)
 - [452. Minimum Number Of Arrows To Burst Balloons](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/452_minimum_number_of_arrows_to_burst_balloons.py)
 - [621. Task Scheduler](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/621_task_scheduler.py)
+- [623. Add One Row to Tree](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/623_add_one_row_to_tree.py)
 - [678. Valid Parenthesis String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/678_valid_parenthesis_string.py)
 - [713. Subarray Product Less Than K](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/713_subarray_product_less_than_k.py)
 - [735. Asteroid Collision](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/735_asteroid_collision.py)
