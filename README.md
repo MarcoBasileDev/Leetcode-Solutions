@@ -95,6 +95,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [713. Subarray Product Less Than K](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/713_subarray_product_less_than_k.py)
 - [735. Asteroid Collision](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/735_asteroid_collision.py)
 - [950. Reveal Cards In Increasing Order](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/950_reveal_cards_in_increasing_order.py)
+- [988. Smallest String Starting From Leaf](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/988_smallest_string_starting_from_leaf.py)
 - [1004. Max Consecutive Ones III](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/1004_max_consecutive_ones_III.py)
 - [1249. Minimum Remove to Make Valid Parentheses](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/1249_minimum_remove_to_make_valid_parentheses.py)
 - [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/1456_maximum_number_of_vowels_in_a_substring_of_given_length.py)
