@@ -80,6 +80,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [143. Reorder List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/143_reorder_list.py)
 - [151. Reverse Words In A String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/151_reverse_words_in_a_string.py)
 - [198. House Robber](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/198_house_robber.py)
+- [200. Number of Islands](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/200_number_of_islands.py)
 - [238. Product Of Array Except Self](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/238_product_of_array_except_self.py)
 - [287. Find The Duplicate Number](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/287_find_the_duplicate_number.py)
 - [328. Odd Even Linked List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/328_odd_even_linked_list.py)
