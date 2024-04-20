@@ -42,6 +42,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1. Two Sum](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1_two_sum.py)
 - [26. Remove Duplicates from Sorted Array](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/26_remove_duplicates_from_sorted_array.py)
 - [58. Length of Last Word](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/58_length_of_last_word.py)
+- [69. sqrt(x)](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/69_sqrt_x.py)
 - [104. Maximum Depth of Binary Tree](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/104_maximum_depth_of_binary_tree.py)
 - [205. Isomorphic Strings](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/205_isomorphic_strings.py)
 - [206. Reverse Linked List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/206_reverse_linked_list.py)
