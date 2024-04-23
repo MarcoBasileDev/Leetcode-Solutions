@@ -57,6 +57,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [605. Can Place Flowers](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/605_can_place_flowers.py)
 - [643. Maximum Average Subarray I](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/643_maximum_average_subarray_I.py)
 - [724. Find Pivot Index](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/724_find_pivot_index.py)
+- [872. Leaf-Similar Trees](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/872_leaf_similar_trees.py)
 - [933. Number Of Recent Calls](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/933_number_of_recent_calls.py)
 - [1071. Greatest Common Divisor Of Strings](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1071_greatest_common_divisor_of_strings.py)
 - [1207. Unique Number Of Occurrences](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1207_unique_number_of_occurrences.py)
