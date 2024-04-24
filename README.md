@@ -60,6 +60,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [872. Leaf-Similar Trees](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/872_leaf_similar_trees.py)
 - [933. Number Of Recent Calls](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/933_number_of_recent_calls.py)
 - [1071. Greatest Common Divisor Of Strings](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1071_greatest_common_divisor_of_strings.py)
+- [1137. N-th Tribonacci Number](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1137_n_th_tribonacci_number.py)
 - [1207. Unique Number Of Occurrences](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1207_unique_number_of_occurrences.py)
 - [1299. Replace Elements with Greatest Element on Right Side](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1299_replace_elements_with_greatest_element_on_right_side.py)
 - [1431. Kids With The Greatest Number Of Candies](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1431_kids_with_the_greatest_number_of_candies.py)
