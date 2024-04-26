@@ -111,6 +111,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1679. Max Number of K-Sum Pairs](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/1679_max_number_of_k_sum_pairs.py)
 - [2095. Delete the Middle Node of a Linked List](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/2095_delete_the_middle_node_of_a_linked_list.py)
 - [2352. Equal Row And Column Pairs](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/2352_equal_row_and_column_pairs.py)
+- [2370. Longest Ideal Subsequence](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/2370_longest_ideal_subsequence.py)
 - [2390. Removing Stars From A String](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/2390_removing_stars_from_a_string.py)
 - [2958. Length of Longest Subarray With at Most K Frequency](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/2958_length_of_longest_subarray_with_at_most_k_frequency.py)
 - [2962. Count Subarrays Where Max Element Appears at Least K Times](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/medium/2962_count_subarrays_where_max_element_appears_at_least_k_times.py)
