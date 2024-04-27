@@ -56,6 +56,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [463. Island Perimeter](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/463_island_perimeter.py)
 - [605. Can Place Flowers](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/605_can_place_flowers.py)
 - [643. Maximum Average Subarray I](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/643_maximum_average_subarray_I.py)
+- [705. Design HashSet](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/705_design_hashset.py)
 - [724. Find Pivot Index](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/724_find_pivot_index.py)
 - [872. Leaf-Similar Trees](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/872_leaf_similar_trees.py)
 - [933. Number Of Recent Calls](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/933_number_of_recent_calls.py)
