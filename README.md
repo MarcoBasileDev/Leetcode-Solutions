@@ -73,6 +73,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [1768. Merge String Alternatively](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1768_merge_string_alternatively.py)
 - [1929. Concatenation of Array](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1929_concatenation_of_array.py)
 - [1971. Find if Path Exists in Graph](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/1971_find_if_path_exists_in_graph.py)
+- [2000. Reverse Prefix of Word](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/2000_reverse_prefix_of_word.py)
 - [2073. Time Needed to Buy Tickets](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/2073_time_needed_to_buy_tickets.py)
 - [2215. Find The Difference Of Two Arrays](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/2215_find_the_difference_of_two_arrays.py)
 
