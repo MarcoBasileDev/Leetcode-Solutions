@@ -76,6 +76,7 @@ This repository is a collection of Python solutions to various LeetCode problems
 - [2000. Reverse Prefix of Word](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/2000_reverse_prefix_of_word.py)
 - [2073. Time Needed to Buy Tickets](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/2073_time_needed_to_buy_tickets.py)
 - [2215. Find The Difference Of Two Arrays](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/2215_find_the_difference_of_two_arrays.py)
+- [2441. Largest Positive Integer That Exists With Its Negative](https://github.com/MarcoBasileDev/LeetCode-Solutions/blob/main/Solutions/easy/2441_largest_positive_integer_that_exists_with_its_negative.py)
 
 ![Static Badge](https://img.shields.io/badge/LeetCode%20Medium%20-yellow?style=for-the-badge)
 
