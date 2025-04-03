@@ -90,3 +90,9 @@ where **`n`** is the number of elements in the search space.
 In each iteration, the algorithm **divides the search space in half**,  
 until it is reduced to **a single value** (or no value if the target is not present).  
 This **halving process** at every step is a characteristic of **logarithmic behavior**.
+
+---
+
+### Real-World Example
+
+**Transaction search in financial systems:** In financial systems, a binary search can be used to quickly find a transaction or record by narrowing down the search range, as the data is typically stored in order. This makes it efficient to retrieve specific entries without searching through the entire database.
