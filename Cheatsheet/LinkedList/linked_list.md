@@ -15,8 +15,14 @@ A linked list is a data structure consisting of a sequence of nodes, where each 
 
 ### Doubly linked list
 
-- Extendend version of the linked list
+- Extended version of the linked list
 - Each node contains two references: one to the next node (next), and one to the previous node (prev).
 - Usually have immediate access to both the head node and the tail node.
 - Allows bidirectional traversal.
 - Deletions generally are more straightforward.
+
+---
+
+### Real-World Example
+
+Music Playlist: Music player applications often use linked lists to implement playlists, particularly doubly linked lists, where each song node links to the next and previous songs. This structure enables efficient addition, removal, and reordering of songs because only the pointers between nodes need to be updated, rather than moving the song data in memory.
