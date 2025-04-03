@@ -28,3 +28,9 @@ Stacks are useful in scenarios where the order of processing or removal is criti
 | Pop       | O(1)       | Removes and returns the element at the top of the stack.         |
 | Peek      | O(1)       | Returns the element at the top of the stack without removing it. |
 | IsEmpty   | O(1)       | Checks if the stack is empty.                                    |
+
+---
+
+### Real-World Example
+
+**Function call management:** As hinted above, a common real-world example of stacks is in function call management within operating systems or programming languages. When a function is called, the program pushes the function's state (including its parameters, local variables, and the return address) onto the call stack. As functions call other functions, their states are also pushed onto the stack. When a function completes, its state is popped off the stack, and the program returns to the calling function. This stack-based approach ensures that functions return control in the correct order, managing nested or recursive function calls efficiently.
