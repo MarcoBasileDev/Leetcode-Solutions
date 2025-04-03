@@ -56,3 +56,9 @@ class Interval:
 ```
 
 This class provides a simple representation of an interval with a `start` and `end` attribute.
+
+---
+
+### Real-World Example
+
+**Scheduling systems:** Intervals are widely used in scheduling systems. For instance, in a conference room booking system, each booking is represented as an interval. The interval representation is used if the system requires functionality, such as determining the maximum number of overlapping bookings to ensure sufficient room availability. By analyzing these intervals, the system can efficiently allocate resources and prevent double bookings.
