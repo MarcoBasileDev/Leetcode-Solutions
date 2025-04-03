@@ -60,3 +60,9 @@ while right < n:
     result = process_current_window()
     right += 1  # Expand the window
 ```
+
+---
+
+### Real-World Example
+
+**Buffering in video streaming:** In video streaming, a dynamic sliding window can be used to manage buffering and ensure smooth playback. For instance, when streaming a video, the player downloads chunks of the video data and stores them in a buffer. A sliding window controls which part of the video is buffered, with the window 'sliding' forward as the video plays. The sliding window ensures the video player can adapt to varying network conditions by dynamically adjusting the buffer size and position, leading to a smoother streaming experience for the viewer.
