@@ -18,3 +18,6 @@ class Solution:
                 res[i] = freq[v - 1]
 
         return res
+
+    # Time Complexity O(n + K)
+    # Space Complexity O(n)
