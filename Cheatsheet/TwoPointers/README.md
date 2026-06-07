@@ -10,8 +10,8 @@
 ### Inward traversal
 
 - Pointers starting at opposites ends and moving inward toward each other.
-- Stop whne they meet/cross each other, or a condition is met.
-- Ideal when we need to compare elements from different ends of a data stracture.
+- Stop when they meet/cross each other, or a condition is met.
+- Ideal when we need to compare elements from different ends of a data structure.
 
 ### Unidirectional traversal
 
@@ -20,7 +20,7 @@
 
 ### Staged traversal
 
-- Traverse with one pointer and whne it lands on an element that meets a certain condition, we traverse with the second pointer.
+- Traverse with one pointer and when it lands on an element that meets a certain condition, we traverse with the second pointer.
 
 ---
 
